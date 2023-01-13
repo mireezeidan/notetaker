@@ -1,20 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "note_id": "hdd383"
-    },
-    {
-        "note_id": "da81fc0b-08d1-43c6-b0b1-9cc1b67aab9a"
-    },
-    {
         "title": "Buy magic cards",
         "text": "the coolest cards ever",
-        "note_id": "f73813f0-1d97-42d3-8379-72f823847d8b"
+        "id": "f73813f0-1d97-42d3-8379-72f823847d8b"
     },
     {
         "title": "fake note",
         "text": "this is a test note",
-        "note_id": "e3ee0ae4-e298-4bbe-9331-a2f5483d9c56"
+        "id": "e3ee0ae4-e298-4bbe-9331-a2f5483d9c56"
+    },
+    {
+        "title": "ricky bobby",
+        "text": "shake 'n bake",
+        "id": "7ae7c978-8ce3-4779-a42c-ef661b05f3b1"
     }
 ]
