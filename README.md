@@ -20,7 +20,9 @@ In order to run the code, the user must have Express and uuid installed using np
 
 To use the webpage the user just goes to the website, enters a note, and clicks on the save button in the top right corner. To delete a note, the user has to click on the trash can icon next to the note they wish to delete.
 
-#Screenshot ![Alt text](../../Desktop/Screen%20Shot%202023-01-16%20at%2011.41.25%20PM.png)
+# Screenshot
+
+![Alt text](Screen%20Shot%202023-01-16%20at%2011.41.25%20PM.png)
 
 # Questions
 
